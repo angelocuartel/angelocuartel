@@ -13,7 +13,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/angelocuartel)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/angelocuartel)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/angelocuartel)](https://badges.pufler.dev)
 <br>
 
-<h3>Social Profiles :iphone</h3>
+<h3>Social Profiles :iphone:</h3>
 
 <a href = https://www.facebook.com/nyrico.cuartel> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> </a>
 <a href = https://github.com/angelocuartel><img src ="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
