@@ -1,6 +1,6 @@
 <img src="Untitled (1).gif" alt="Databay showcase gif" title="Databay showcase gif" width="100%"/>
 <h3 align="center">Hello, Human 	:robot: </h3>
-<h5 align="center"> I am an Aspiring Fullstack Developer </h5>
+<h5 align="center">An aspiring fullstack developer </h5>
 
 
 
