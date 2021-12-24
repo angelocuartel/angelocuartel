@@ -17,7 +17,7 @@
 <a href = https://www.codewars.com/users/Nyrico02><img src =	"https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
 <a href = https://www.gmail.com><img src =	"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href ="https://www.sololearn.com/profile/18813672"><img src ="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"></a>
-<a href ="www.linkedin.com/in/nyrico-angelo-cuartel"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href ="https://www.linkedin.com/in/nyrico-angelo-cuartel/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
               
 
 
