@@ -27,3 +27,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelocuartel&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angelocuartel&theme=radical&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
+![](https://komarev.com/ghpvc/?username=angelocuartel)
